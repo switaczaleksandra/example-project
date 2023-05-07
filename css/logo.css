@@ -1,0 +1,10 @@
+.logo {
+    text-decoration: none;
+  }
+
+  .logo__image {
+    display: block;
+    width: 100px;
+    padding-left: 20px;
+    margin-left: 10px;
+  }

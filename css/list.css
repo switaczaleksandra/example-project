@@ -1,0 +1,10 @@
+.section__unorderedList {
+    list-style-position: inside;
+    line-height: 2;
+}
+
+.section__list--header {
+    text-transform: uppercase;
+    color: #e08e16;
+    font-size: 25px;
+}

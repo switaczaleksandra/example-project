@@ -1,0 +1,22 @@
+.section__header--galery {
+    color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 15px;
+   border-bottom: solid 1px rgba(17, 16, 16, 0.342);
+   align-items: center;
+}
+
+.section__galery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px 30px;
+    align-items: center;
+    justify-items: center;
+    margin: 50px;
+}
+
+.section__image--galery {
+    width: 400px;
+    box-shadow: -14px -12px 0px 0px #E8BE40;
+}
