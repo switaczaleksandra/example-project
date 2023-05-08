@@ -4,6 +4,7 @@
 }
 
 .section__list--header {
+    font-weight: 700;
     text-transform: uppercase;
     color: #e08e16;
     font-size: 25px;
