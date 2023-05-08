@@ -20,9 +20,9 @@
 
 @media (max-width: 767px) {
     .section__image {
-        padding: 20px 20px;
         object-fit: contain;
-        margin: 0 20px;
+        object-position: center;
+        padding: 0 20px;
     }
 }
 

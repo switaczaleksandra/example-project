@@ -21,7 +21,7 @@
     display: block;
     background: none;
     border: none;
-    padding: 0;
+    padding-right: 2px;
   }
 }
 
@@ -30,6 +30,7 @@
     width: 25px;
     height: 25px;
     display: block;
+    padding-right: 2px;
   }
 }
 
